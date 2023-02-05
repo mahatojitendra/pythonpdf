@@ -1,0 +1,17 @@
+##############################################################################################################
+#This project is created with the help of pyPDF2 library.                                                    #
+#Author is not liable for any type of loss or damage caused by this project. Use this based on your own risk.#
+##############################################################################################################
+Author: Jitendra Kumar Mahato
+##############################################################################################################
+Instructions:
+1. You should have python installed in your system.
+2. Upgrade your pip by using "python.exe -m pip install --upgrade pip" command.
+3. Install pyPDF2 and other requirements by using "pip install -r requirements.txt" command.
+4. Contents of the requirements.txt file is as given below****.
+5. If requirements.txt is not working then try to pip install one by one e.g. pip install PyPDF2.
+6. To use python idle use command python -m idlelib.idle.
+
+
+****Contents in the requirements.txt file
+PyPDF2==3.0.1
