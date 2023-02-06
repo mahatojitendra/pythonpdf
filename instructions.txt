@@ -15,3 +15,16 @@ Instructions:
 
 ****Contents in the requirements.txt file
 PyPDF2==3.0.1
+
+##############################################################################################################
+# How to run this script: -                                                                                  #
+# 1. Go to https://github.com/mahatojitendra/pythonpdf                                                       #
+# 2. Locate <> Code section. Click <> Code dropdown button.                                                  #
+# 3. You can download the zip folder of this repository.                                                     #
+# 4. Extract downloaded zip folder to anywhere you want.                                                     #
+# 5. If you don't want to use zip folder then simply use command in the command prompt where you want to     #
+#    download this repository.                                                                               #
+#    command: git clone https://github.com/mahatojitendra/pythonpdf                                          #
+# 6. Run script by using command in the command prompt: python main.py                                       #
+# 7. Follow the Instructions given in the program itself.                                                    #
+##############################################################################################################
